@@ -43,7 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Building_Shop.cs" />
+    <Compile Include="Jewerly_Shop.cs" />
+    <Compile Include="Shelter.cs" />
+    <Compile Include="Sport_Shop.cs" />
+    <Compile Include="Taxi.cs" />
+    <Compile Include="Tour_Agency.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
